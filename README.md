@@ -2,7 +2,7 @@
 
 A simple web application using ejss
 
-:point_right: [Click me to see the example!(抱歉这次没有例子)]() :point_left:
+:point_right: [Click me to see the example!(这次没有例子)]() :point_left:
 
 ---
 
