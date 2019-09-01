@@ -1,6 +1,6 @@
 # Blog Application
 
-A simple web application using ejss
+A simple web application using ejs
 
 :point_right: [Click me to see the example!(这次没有例子)]() :point_left:
 
